@@ -16,7 +16,7 @@ Nous cherchons à anticiper le fait que le volume de données va augmenter très
 
 Données : https://www.kaggle.com/moltean/fruits
 
-##Contraintes :
+## Contraintes :
 Lors de son brief initial, Paul vous a averti des points suivants :
 
 Vous devrez tenir compte dans vos développements du fait que le volume de données va augmenter très rapidement après la livraison de ce projet. Vous développerez donc des scripts en Pyspark et utiliserez par exemple le cloud AWS pour profiter d’une architecture Big Data (EC2, S3, IAM), basée sur un serveur EC2 Linux.
