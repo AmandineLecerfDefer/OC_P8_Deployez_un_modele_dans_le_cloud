@@ -6,6 +6,10 @@
 
 **Durée totale :** 70 heures
 
+Si vous avez des difficulté à voir le contenu des notebook, vous pouvez le retrouvez ici :
+[Deployez_un_modele_dans_le_cloud](https://nbviewer.org/github/AmandineLecerfDefer/RNCP_DS_OC_P8_Deployez_un_modele_dans_le_cloud/blob/main/P8_01_notebook.ipynb)
+
+
 ## Background du projet :
 Vous êtes Data Scientist dans une très jeune start-up de l'AgriTech, nommée  "Fruits!", qui cherche à proposer des solutions innovantes pour la récolte des fruits.
 La volonté de l’entreprise est de préserver la biodiversité des fruits en permettant des traitements spécifiques pour chaque espèce de fruits en développant des robots cueilleurs intelligents.
